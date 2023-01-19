@@ -1,0 +1,12 @@
+name: auto
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - jupyterlab
+  - lxml
+  - camelot-py
+  - selenium
+prefix: C:\Anaconda\envs\auto
