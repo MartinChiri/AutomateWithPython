@@ -9,4 +9,7 @@ dependencies:
   - lxml
   - camelot-py
   - selenium
-prefix: C:\Anaconda\envs\auto
+  - webdriver-manager
+  - camelot-py
+  - PyPDF2<3.0
+  - ghostscript::pip
